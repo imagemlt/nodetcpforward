@@ -1,0 +1,2 @@
+# nodetcpforward
+学习nodejs利用其事件驱动的高并发特性编写的一个tcp端口转发脚本
