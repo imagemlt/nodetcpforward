@@ -1,4 +1,4 @@
-var net=require('net')
+var net=require('net');
 
 var LOCALHOST=process.argv[2]
 var LOCALPORT=parseInt(process.argv[3])
